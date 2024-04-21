@@ -18,7 +18,14 @@ export const Layout = () => {
         </form>
         <ol id="todo-list" hx-get="/todo" hx-trigger="load" />
       </main>
-      <footer></footer>
+      <footer>
+        <a href="https://github.com/askleon/bun-todo">Source code </a>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="GitHub Logo"
+          width="20"
+          height="20"
+          style={{ verticalAlign: 'middle' }} />
+      </footer>
     </body>
   </html>
 }
