@@ -1,4 +1,4 @@
-### todo app in bun, hono, htmx, simple.css
+### todo app in bun with hono, htmx and simple.css
 
 To install dependencies:
 ```sh
