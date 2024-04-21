@@ -1,3 +1,5 @@
+### todo app in bun, hono, htmx, simple.css
+
 To install dependencies:
 ```sh
 bun install
